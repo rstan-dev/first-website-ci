@@ -50,26 +50,6 @@ nav a:hover {
     text-align: center;
 }
 
-.card2 {
-    width: 20%;
-    margin-left: 10%;
-    display: inline-block;
-}
-
-.card2 a {
-    text-align: center;
-}
-
-.card3 {
-    width: 20%;
-    margin-left: 10%;
-    
-}
-
-.card3 a {
-    text-align: center;
-}
-
 img {
     width: 100%;  /* takes up 100% of its parents width which is .card 20%  */
     height: 180px;
